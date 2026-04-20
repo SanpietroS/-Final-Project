@@ -41,16 +41,6 @@ This sample helped highlight where each model performs well and where errors inc
 Recommendation
 The Random Forest model is the recommended choice for MSRP prediction. It provides higher accuracy, more stable residuals, and better interpretability than the Neural Network.
 
-Project Structure
-project/
-│── data/                # Dataset files
-│── notebooks/           # Jupyter notebooks for EDA and modeling
-│── models/              # Saved model files (optional)
-│── images/              # Plots (if included)
-│── README.md            # Project documentation
-│── requirements.txt     # Dependencies
-│── main.py / notebook   # Training and evaluation code
-
 Setup Instructions
 1. Install Dependencies
     pip install -r requirements.txt
